@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Team-CSI-Probation/Ashish_CSI_WeatherApp/static/css/main.d4ab806f.css",
-    "main.js": "/Team-CSI-Probation/Ashish_CSI_WeatherApp/static/js/main.f330ba62.js",
-    "static/js/787.28cb0dcd.chunk.js": "/Team-CSI-Probation/Ashish_CSI_WeatherApp/static/js/787.28cb0dcd.chunk.js",
-    "static/media/warm.jpg": "/Team-CSI-Probation/Ashish_CSI_WeatherApp/static/media/warm.d2fab2428a39d1268bab.jpg",
-    "static/media/sunset.jpg": "/Team-CSI-Probation/Ashish_CSI_WeatherApp/static/media/sunset.3f5a2d98a96f6f4b38cb.jpg",
-    "index.html": "/Team-CSI-Probation/Ashish_CSI_WeatherApp/index.html",
-    "main.d4ab806f.css.map": "/Team-CSI-Probation/Ashish_CSI_WeatherApp/static/css/main.d4ab806f.css.map",
-    "main.f330ba62.js.map": "/Team-CSI-Probation/Ashish_CSI_WeatherApp/static/js/main.f330ba62.js.map",
-    "787.28cb0dcd.chunk.js.map": "/Team-CSI-Probation/Ashish_CSI_WeatherApp/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/Ashish_CSI_WeatherApp/static/css/main.2907344f.css",
+    "main.js": "/Ashish_CSI_WeatherApp/static/js/main.af4905d3.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Ashish_CSI_WeatherApp/static/js/787.28cb0dcd.chunk.js",
+    "static/media/warm.jpg": "/Ashish_CSI_WeatherApp/static/media/warm.d2fab2428a39d1268bab.jpg",
+    "static/media/sunset.jpg": "/Ashish_CSI_WeatherApp/static/media/sunset.3f5a2d98a96f6f4b38cb.jpg",
+    "index.html": "/Ashish_CSI_WeatherApp/index.html",
+    "main.2907344f.css.map": "/Ashish_CSI_WeatherApp/static/css/main.2907344f.css.map",
+    "main.af4905d3.js.map": "/Ashish_CSI_WeatherApp/static/js/main.af4905d3.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Ashish_CSI_WeatherApp/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4ab806f.css",
-    "static/js/main.f330ba62.js"
+    "static/css/main.2907344f.css",
+    "static/js/main.af4905d3.js"
   ]
 }
